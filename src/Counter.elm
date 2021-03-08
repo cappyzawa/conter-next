@@ -1,4 +1,4 @@
-module Counter exposing (main)
+module Counter exposing (..)
 
 import Browser
 import Html exposing (Html, button, div, text)
